@@ -6,9 +6,8 @@ My name is Le Nguyen Phuc Thinh. I am a third year student at Ho Chi Minh City U
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/vietnh1009/QuickDraw/">
+<a href="https://github.com/LELOCQUOCTHINH/Smart_Traffic_Light">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
 </a>    
