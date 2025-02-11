@@ -4,7 +4,7 @@ My name is Le Nguyen Phuc Thinh. I am a third year student at Ho Chi Minh City U
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lenguyenphucthinh/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ThinhCSE-HCMUT)
 
-
+![Thinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThinhCSE-HCMUT&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
 <a href="https://github.com/LELOCQUOCTHINH/Smart_Traffic_Light">
