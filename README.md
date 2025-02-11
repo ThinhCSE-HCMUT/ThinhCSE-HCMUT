@@ -13,7 +13,7 @@ My name is Le Nguyen Phuc Thinh. I am a third year student at Ho Chi Minh City U
 </a>   
 <a href="https://github.com/ThinhCSE-HCMUT/Smart-Card-Scanning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThinhCSE-HCMUT&repo=Smart-Card-Scanning&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThinhCSE-HCMUT&repo=Smart-Card-Scanning&theme=merko"/>
 </a>
 
 <a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
