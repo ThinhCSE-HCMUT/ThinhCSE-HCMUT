@@ -1,5 +1,5 @@
 ### WELCOME TO MY GITHUB PAGE 👋👋👋
-My name is Le Nguyen Phuc Thinh. I am a third year student at Ho Chi Minh City University of Technology. I am interested in the following topics: Automotive Embedded Systems and Embedded System Design.<br>
+My name is Le Nguyen Phuc Thinh. I am a fourth year student at Ho Chi Minh City University of Technology. I am interested in the following topics: Automotive Embedded Systems and Embedded System Design.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lenguyenphucthinh/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ThinhCSE-HCMUT)
