@@ -5,7 +5,7 @@
   <a href="mailto:thinhphuclenguyen2502@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
 
-I am a fourth-year Computer Engineering student at **Ho Chi Minh City University of Technology (HCMUT)**, with hands-on experience in embedded software development, systems programming, and router firmware validation. Currently seeking an **Intern Embedded Software Engineer** role.
+I am a fourth-year Computer Engineering student at **Ho Chi Minh City University of Technology (HCMUT)**, with hands-on experience in embedded software development, systems programming, and router firmware validation. Currently seeking an **Embedded Software Engineer** role.
 
 ---
 
